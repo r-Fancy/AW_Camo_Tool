@@ -1,0 +1,2 @@
+camo_carbonfiber_01_col.png
+camo_carbonfiber_01_nml.png

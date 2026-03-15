@@ -1,0 +1,4 @@
+~$white-r32g32b32&camo_diamon~1e8e9dc6.png
+~camo_diamond_02_spc-rgb&camo~22b767c1.png
+camo_diamond_02_col.png
+camo_diamond_02_nml.png

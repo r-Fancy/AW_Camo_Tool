@@ -1,0 +1,3 @@
+~camo_gold_02_spc-rgb&camo_go~eae16fb4.png
+camo_gold_02_col.png
+camo_gold_02_nml.png

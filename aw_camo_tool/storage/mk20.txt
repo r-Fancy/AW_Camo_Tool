@@ -1,0 +1,3 @@
+~camo_diamond_04_spc-rgb&camo~4720d672.png
+camo_diamond_04_col.png
+camo_diamond_04_nml.png
