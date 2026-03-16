@@ -9,3 +9,7 @@ It copies one image multiple times, using the number of weapon names for the cam
 Open 'tools.py' with Notepad or any other text editor. Change BASE_PATH = "" to your folder path, for example: C:/Users/fancy/Desktop/aw_camo_tool.
 Choose your camo type: (B)asic Weapon, (mk2), (mk3), etc.
 Then drag and drop the image you want to be copied.
+
+# Aditional
+
+To have the camos load make sure your file extension is PNG, as anything else is unsupported by the current clients.
