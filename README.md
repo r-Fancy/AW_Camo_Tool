@@ -8,10 +8,10 @@ It copies one image multiple times, using the number of weapon names for the cam
 
 1. Run tools.py
 2. Choose Between these options:
-    'B': 'basic_weapon',
-    'N': 'non_animated', 
-    'MK2': 'mk2',
-    'MK15': 'mk15'
+    B: basic_weapon
+    N: non_animated 
+    mk2
+    MK15
 3. Drag & Drop Image you want to copy.
 4. Check the now created Output folder
 
